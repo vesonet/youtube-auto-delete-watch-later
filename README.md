@@ -17,4 +17,4 @@ https://imgur.com/lRZlb9H
 https://imgur.com/rHq7bR9
 
 
-THE CODE TO COPY IS IN THE FILE "youtube-auto-delete-watch-later.js" HERE.
+THE CODE TO COPY IS IN THE FILE "youtube-auto-delete-watch-later.js" ABOVE.
