@@ -2,7 +2,7 @@
 js script for auto deleting Watch Later Playlist
 
 1. First open your "Watch Later Playlist" youtube page
-#screenshot here: 
+\n#screenshot here: 
 https://imgur.com/mYqAPZk
 
 2. Open Chrome -> Wrench menu -> More tools -> Developer Tools
