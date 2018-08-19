@@ -3,6 +3,8 @@ js script for auto deleting Watch Later Playlist
 
 1. First open your "Watch Later Playlist" youtube page
 
+https://www.youtube.com/playlist?list=WL&disable_polymer=true
+
 #screenshot here: 
 https://imgur.com/mYqAPZk
 
