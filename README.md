@@ -1,4 +1,4 @@
-# youtube-auto-delete-watch-later
+# Youtube auto delete watch later
 js script for auto deleting Watch Later Playlist
 
 1. First open your "Watch Later Playlist" youtube page
